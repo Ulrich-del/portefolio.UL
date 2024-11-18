@@ -1,0 +1,44 @@
+
+
+
+*{
+margin: 0;
+padding: 0;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+
+
+}
+li{
+    list-style: none;
+
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.spaceBetween{
+    justify-content: space-between;
+    
+    
+}
+.gap{
+    gap: 20px;;
+}
+
+
+
+.Aligncenter{
+    align-items: center;
+
+}
+
+.imgH2{
+    width: 450px;
+    height: 430px;
+}
+
