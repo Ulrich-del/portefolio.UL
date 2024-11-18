@@ -42,3 +42,9 @@ li{
     height: 430px;
 }
 
+.container{
+    /*background-color:red;*/
+    max-width: 1000px;
+    width: 100%;
+    margin: auto;
+}
